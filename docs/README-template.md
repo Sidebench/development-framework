@@ -1,4 +1,24 @@
-# Project Title
+<h1 align="center">
+  Project Title
+</h1>
+
+<h4 align="center">BETTER EVERY DAY</h4>
+
+<div align="center">
+[![CircleCI](https://circleci.com/gh/Sidebench/{:project-name}.svg?style=shield&circle-token={:project-token})](https://circleci.com/gh/Sidebench/{:project-name})
+</div>
+
+<p align="center">
+  <a href="#Getting-Started">Getting Started</a> •
+  <a href="#Running-the-tests">Running the tests</a> •
+  <a href="#Deployment">Deployment</a> •
+  <a href="#Built-With">Built With</a> •
+  <a href="#Versioning">Versioning</a> •
+  <a href="#Contributing">Contributing</a> •
+  <a href="#Authors">Authors</a> •
+  <a href="#Acknowledgments">Acknowledgments</a> •
+  <a href="#Documentation-/-Wiki">Documentation / Wiki</a>
+</p>
 
 One Paragraph of project description goes here
 
@@ -44,7 +64,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+### End to end tests
 
 Explain what these tests test and why
 
@@ -52,7 +72,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
+### Coding style tests
 
 Explain what these tests test and why
 
@@ -70,23 +90,23 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/Sidebench/development-framework/blob/master/docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **FirstName LastName** - *Initial work* - [Sidebench](https://github.com/Sidebench)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+TODO: This project is licensed under the ___ License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
