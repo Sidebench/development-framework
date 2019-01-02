@@ -15,11 +15,12 @@ Add a Wiki page/section for each relevant/related section listed below. A page f
   - Place to start is link to main project README.md
     - README
       - Getting started
-      - Prerequisites
-      - Environment Variables
-      - Installing
+        - Prerequisites
+        - Environment Variables
+        - Installing
       - Running Tests
-      - Coding style/tests
+        - End to end testing
+        - Coding style/tests
       - Deployment
       - Analytics
       - Built With
