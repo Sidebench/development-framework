@@ -65,6 +65,7 @@ Add a Wiki page/section for each relevant/related section listed below. A page f
   - Summary / Notes
   - Code Coverage
   - CI/CD pipeline
+- Analytics
 - History
   - Versions
   - Change Log
