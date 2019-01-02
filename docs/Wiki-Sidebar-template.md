@@ -23,8 +23,8 @@ Add a Wiki page/section for each relevant/related section listed below. A page f
         - Coding style/tests
       - Deployment
       - Built With
-      - Contributing
       - Versioning
+      - Contributing
       - Authors
       - License
       - Acknowledgements
