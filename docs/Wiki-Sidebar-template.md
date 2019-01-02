@@ -22,7 +22,6 @@ Add a Wiki page/section for each relevant/related section listed below. A page f
         - End to end testing
         - Coding style/tests
       - Deployment
-      - Analytics
       - Built With
       - Contributing
       - Versioning
