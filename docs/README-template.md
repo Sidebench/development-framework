@@ -114,3 +114,6 @@ TODO: This project is licensed under the ___ License - see the [LICENSE.md](LICE
 * Inspiration
 * etc
 
+## Documentation / Wiki
+
+Further documentation can be found in the (Wiki)[https://github.com/Sidebench/{:project-name}/wiki]
