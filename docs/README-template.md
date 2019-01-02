@@ -17,7 +17,7 @@
   <a href="#Contributing">Contributing</a> •
   <a href="#Authors">Authors</a> •
   <a href="#Acknowledgments">Acknowledgments</a> •
-  <a href="#Documentation-/-Wiki">Documentation / Wiki</a>
+  <a href="#Documentation--Wiki">Documentation / Wiki</a>
 </p>
 
 One Paragraph of project description goes here
