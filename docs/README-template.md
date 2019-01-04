@@ -5,7 +5,7 @@
 <h4 align="center">BETTER EVERY DAY</h4>
 
 <div align="center">
-[![CircleCI](https://circleci.com/gh/Sidebench/{:project-name}.svg?style=shield&circle-token={:project-token})](https://circleci.com/gh/Sidebench/{:project-name})
+  [![CircleCI](https://circleci.com/gh/Sidebench/{:project-name}.svg?style=shield&circle-token={:project-token})](https://circleci.com/gh/Sidebench/{:project-name})
 </div>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <a href="#Documentation--Wiki">Documentation / Wiki</a>
 </p>
 
-One Paragraph of project description goes here
+TODO: One Paragraph of project description goes here
 
 ## Getting Started
 
@@ -82,17 +82,15 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+TODO: Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+TODO: 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+TODO: 
 
 ## Contributing
 
