@@ -17,7 +17,7 @@ Add a Wiki page/section for each relevant/related section listed below. A page f
       - Getting started
         - Prerequisites
         - Environment Variables
-        - Installing
+        - Local Environment Setup
       - Running Tests
         - End to end testing
         - Coding style/tests
