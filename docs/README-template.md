@@ -42,7 +42,7 @@ List environment variables that are needed for each of `development`, `staging`,
 Give examples
 ```
 
-### Installing
+### Local Environment Setup
 
 A step by step series of examples that tell you how to get a development env running
 
