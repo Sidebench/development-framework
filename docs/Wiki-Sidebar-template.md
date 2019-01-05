@@ -48,6 +48,11 @@ Add a Wiki page/section for each relevant/related section listed below. A page f
   - DNS
   - IP address(es)
   - Subdomains
+- Environments
+  - Prod
+  - Staging
+  - Test
+  - Development
 - Server Info/Configuration
   - Nginx
   - Heroku, AWS, GCP, etc
